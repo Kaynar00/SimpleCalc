@@ -1,0 +1,7 @@
+/home/keyur/Dokument/GitRepos/SimpleCalc/build/CMakeFiles/SimpleCalc.dir
+/home/keyur/Dokument/GitRepos/SimpleCalc/build/CMakeFiles/edit_cache.dir
+/home/keyur/Dokument/GitRepos/SimpleCalc/build/CMakeFiles/rebuild_cache.dir
+/home/keyur/Dokument/GitRepos/SimpleCalc/build/CMakeFiles/list_install_components.dir
+/home/keyur/Dokument/GitRepos/SimpleCalc/build/CMakeFiles/install.dir
+/home/keyur/Dokument/GitRepos/SimpleCalc/build/CMakeFiles/install/local.dir
+/home/keyur/Dokument/GitRepos/SimpleCalc/build/CMakeFiles/install/strip.dir
